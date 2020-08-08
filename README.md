@@ -1,2 +1,3 @@
-# Homework-assignment-1
+# Site Refractor
 Code refractor assignment for Vanderbilt coding BC
+
